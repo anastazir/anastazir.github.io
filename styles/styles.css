@@ -23,10 +23,9 @@
 }
 
 .light-mode {
-  --color-primary: #e2d51c;
-  /* --color-primary: #1cc4e2; */
-  --color-secondary: #66e9f5;
-  /* --color-secondary: #66e9f5; */
+  --color-primary: #B8FFF9;
+  --color-secondary: #42C2FF;
+  /* --color-secondary: #516BEB; */
   --color-white: #454e56;
   --color-black: #000;
   --color-grey0: #f8f8f8;
