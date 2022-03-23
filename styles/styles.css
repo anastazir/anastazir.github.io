@@ -764,8 +764,8 @@ section {
 }
 
 .blogs .blog:hover img {
-  -webkit-filter: grayscale(0);
-          filter: grayscale(0);
+  /* -webkit-filter: grayscale(0);
+          filter: grayscale(0); */
   -webkit-transform: scale(1.1);
           transform: scale(1.1);
   -webkit-box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.8);
@@ -779,8 +779,8 @@ section {
      object-fit: cover;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
-  -webkit-filter: grayscale(100%);
-          filter: grayscale(100%);
+  /* -webkit-filter: grayscale(100%);
+          filter: grayscale(100%); */
   -webkit-transition: all .4s ease-in-out;
   transition: all .4s ease-in-out;
 }
