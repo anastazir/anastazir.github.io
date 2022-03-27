@@ -23,6 +23,7 @@
 }
 
 .light-mode {
+  /* --color-primary: #d1b8ff; */
   --color-primary: #B8FFF9;
   --color-secondary: #42C2FF;
   /* --color-secondary: #516BEB; */
@@ -534,6 +535,14 @@ section {
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .rl {
   width: 75%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .ts {
+  width: 70%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .redux {
+  width: 85%;
 }
 
 .stat-title {
@@ -1064,6 +1073,11 @@ section {
 
 .about-container .left-about p {
   padding-left: 0;
+}
+
+.certificate-id{
+  margin-top:1rem;
+  text-align: center;
 }
 
 @media screen and (max-width: 600px) {
