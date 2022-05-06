@@ -6,6 +6,10 @@
   list-style: none;
 }
 
+::-webkit-scrollbar {
+  width: 0;  /* Remove scrollbar space */
+  background: transparent;  /* Optional: just make scrollbar invisible */}
+
 :root {
   --color-primary: #191d2b;
   --color-secondary: #27AE60;
